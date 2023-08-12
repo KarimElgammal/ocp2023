@@ -6,3 +6,7 @@ Here comes our proposed solution to the OC23 challenge
 - You can find excellent example scripts in the OCP team tutorial for adsorbML and OCP [here](https://github.com/Open-Catalyst-Project/tutorial/tree/main) 
 
 - This tutorial notebooks is used here in this repo
+
+<div style="background-color: #DFF0D8; color: #4F8A10; padding: 10px">
+    <strong>Note:</strong> These scripts are inspired from https://github.com/Open-Catalyst-Project/tutorial/tree/main 
+</div>
