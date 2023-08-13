@@ -46,12 +46,9 @@ commands to install the packages for OCP:
  conda activate ocp-models
 #install additional packages
  mamba install -n base -c conda-forge jupyterlab jupyter-book
- mamba install -n base -c conda-forge jupyterlab_widgets ipywidgets nbformat
- mamba install -n base -c conda-forge ipykernel
  mamba clean --all
  pip install e3nn
- pip install ipykernel
- pip install nbformat ipywidgets
+ pip install ipykernel nbformat ipywidgets
  pip install -e .
  cd ..
  git clone https://github.com/Open-Catalyst-Project/Open-Catalyst-Dataset.git
