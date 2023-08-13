@@ -65,7 +65,7 @@ To use the environment:
  conda activate ocp-models
 ```
 
-To check if installation is working, use notebook "./0_deal_with_checkpoints.ipynb" here
+To check if installation is working, use notebook [0_deal_with_checkpoints.ipynb](./0_deal_with_checkpoints.ipynb) here
 
 <!-- 
 #- To install the packages for OCP, we need conda and mamba first
